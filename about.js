@@ -1,4 +1,3 @@
-
 let utils = require('../../utils/utils')
 Page({
   data: {
